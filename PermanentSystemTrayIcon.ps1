@@ -8,7 +8,6 @@
 #############################################################################################
 
 $LogFile = "C:\Windows\CCM\Logs\Install_PermanentSystemTrayIcon.log"
-$TargetFolder = "C:\MountSinai\DoNotDelete\Utilities\MyAid"
 $SourceFolder = $PSScriptRoot
 $SCCMLogFolder = "C:\Windows\CCM\Logs"
 $StartDateTime = Get-Date
