@@ -1,6 +1,4 @@
-# Windows11
-
-How to make permanent system tray icons in Windows 11
+# Windows11 : How to make permanent system tray icons
 
 
 Windows 11 has introduced several changes to the user interface and system functionality, including the way system tray icons are managed. While these changes offer a sleek and modern appearance, they have posed a challenge for developers and system administrators who need to programmatically create permanent system tray icons without clicking the ‘up’ button. In Windows 11, the option to permanently display these icons without user intervention or choice is no longer available. In contrast to Windows 10, where this process was straightforward using XML, Windows 11 requires a more creative approach.
